@@ -1,0 +1,3 @@
+Over the years I have developed a wide range of scripts and utilities, ranging from the casual hack to the daily life-saver.  The scripts are usually written in [Python language](http://code.google.com/p/jrfonseca/w/list?q=label:Python) or [Bash shell language](http://code.google.com/p/jrfonseca/w/list?q=label:Shell).  Although originally written for selfish reasons, they can be useful to others, or at least serve as a starting point better than starting from scratch.  They are not that elaborate to warrant a separate project for each, but as a whole  I believe they deserve to be properly hosted, documented and versioned, in order to be more useful to others.  Hence this umbrella project.
+
+**[All Scripts](http://code.google.com/p/jrfonseca/w/list?q=label:Script)**
